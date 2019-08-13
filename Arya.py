@@ -1,10 +1,3 @@
-#deepak.gupta651@gmail.com
-#D@ta2014
-
-
-
-##### Replace double spaces with single...
-
 import sys, keras, re, os
 import numpy as np
 import matplotlib.pyplot as plt
